@@ -1,6 +1,6 @@
 if (typeof window !== "undefined") {
     window.$crisp = [];
-    window.CRISP_WEBSITE_ID = process.env.CRISP_SITE_ID;
+    window.CRISP_WEBSITE_ID = process.env.NEXT_PUBLIC_CRISP_SITE_ID;
   
     (function () {
       const d = document;
