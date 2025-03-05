@@ -28,25 +28,6 @@
             ]
           }
         ]
-      },
-      {
-        "tab": "Discounts",
-        "groups": [
-          {
-            "group": "Discounts",
-            "pages": [
-              "discounts/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "discounts/endpoint/get",
-              "discounts/endpoint/create",
-              "discounts/endpoint/delete"
-            ]
-          }
-        ]
       }
     ],
     "global": {
