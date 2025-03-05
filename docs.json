@@ -45,7 +45,7 @@
         {
           "anchor": "Order a server",
           "href": "https://waterfall.gg",
-          "icon": "regular-cash-register"
+          "icon": "fa-regular fa-cash-register"
         }
       ]
     }
