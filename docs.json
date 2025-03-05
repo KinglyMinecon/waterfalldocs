@@ -40,12 +40,12 @@
         {
           "anchor": "Billing Panel",
           "href": "https://billing.waterfall.gg",
-          "icon": "slack"
+          "icon": "cart-shopping"
         },
         {
           "anchor": "Order a server",
           "href": "https://waterfall.gg",
-          "icon": "newspaper"
+          "icon": "cash-register"
         }
       ]
     }
