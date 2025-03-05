@@ -30,20 +30,20 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "Discounts",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Discounts",
             "pages": [
-              "api-reference/introduction"
+              "discounts/introduction"
             ]
           },
           {
             "group": "Endpoint Examples",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
+              "discounts/endpoint/get",
+              "discounts/endpoint/create",
+              "discounts/endpoint/delete"
             ]
           }
         ]
