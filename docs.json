@@ -7,7 +7,7 @@
     "light": "#007FFF",
     "dark": "#006AD4"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
@@ -16,25 +16,25 @@
           {
             "group": "Get Started",
             "pages": [
-              "docs/introduction"
+              "introduction"
             ]
           },
           {
             "group": "Minecraft",
             "pages": [
-              "docs/introduction"
+              "introduction"
             ]
           },
           {
             "group": "VPS Panel",
             "pages": [
-              "docs/introduction"
+              "introduction"
             ]
           },
           {
             "group": "Billing Panel",
             "pages": [
-              "docs/introduction"
+              "introduction"
             ]
           }
         ]
@@ -76,8 +76,8 @@
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo.png",
+    "dark": "/logo/logo.png"
   },
   "navbar": {
     "links": [
