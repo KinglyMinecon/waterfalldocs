@@ -1,54 +1,40 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "Mint Starter Kit",
+  "theme": "willow",
+  "name": "Waterfall Docs",
   "colors": {
-    "primary": "#16A34A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#006AD4",
+    "light": "#007FFF",
+    "dark": "#006AD4"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Docs",
         "groups": [
           {
             "group": "Get Started",
             "pages": [
-              "introduction",
-              "quickstart",
-              "development"
+              "introduction"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Minecraft",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API Reference",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "pages": [
-              "api-reference/introduction"
+              "introduction"
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "VPS Panel",
             "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete"
+              "introduction"
+            ]
+          },
+          {
+            "group": "Billing Panel",
+            "pages": [
+              "introduction"
             ]
           }
         ]
@@ -57,45 +43,60 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Order a Service",
+          "href": "https://waterfall.gg",
+          "icon": "cash-register"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Billing Panel",
+          "href": "https://billing.waterfall.gg",
+          "icon": "cart-shopping"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "anchor": "Game Panel",
+          "href": "https://panel.waterfall.gg",
+          "icon": "alien-8bit"
+        },
+        {
+          "anchor": "VPS Panel",
+          "href": "https://vps.waterfall.gg",
+          "icon": "server"
+        },
+        {
+          "anchor": "Join the Discord",
+          "href": "https://discord.gg/waterfallhost",
+          "icon": "discord"
+        },
+        {
+          "anchor": "Create a Ticket",
+          "href": "https://billing.waterfall.gg/submitticket.php",
+          "icon": "ticket"
         }
       ]
     }
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "/logo/logo.png",
+    "dark": "/logo/logo.png"
   },
   "navbar": {
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://discord.gg/waterfallhost"
       }
     ],
     "primary": {
       "type": "button",
       "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://panel.waterfall.gg"
     }
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/waterfall_gg",
+      "github": "https://github.com/Waterfall",
+      "discord": "https://discord.gg/waterfallhost"
     }
   }
 }
